@@ -1,0 +1,15 @@
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.csproj.AssemblyReference.cache
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.AssemblyInfoInputs.cache
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.AssemblyInfo.cs
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Dava\Desktop\ex\ex005_ifelse\bin\Debug\net6.0\ex005_ifelse.exe
+C:\Users\Dava\Desktop\ex\ex005_ifelse\bin\Debug\net6.0\ex005_ifelse.deps.json
+C:\Users\Dava\Desktop\ex\ex005_ifelse\bin\Debug\net6.0\ex005_ifelse.runtimeconfig.json
+C:\Users\Dava\Desktop\ex\ex005_ifelse\bin\Debug\net6.0\ex005_ifelse.dll
+C:\Users\Dava\Desktop\ex\ex005_ifelse\bin\Debug\net6.0\ex005_ifelse.pdb
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.dll
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\refint\ex005_ifelse.dll
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.pdb
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ex005_ifelse.genruntimeconfig.cache
+C:\Users\Dava\Desktop\ex\ex005_ifelse\obj\Debug\net6.0\ref\ex005_ifelse.dll
