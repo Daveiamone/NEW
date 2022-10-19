@@ -1,0 +1,15 @@
+C:\Users\Dava\Desktop\ex\ex006_base\bin\Debug\net6.0\ex006_base.exe
+C:\Users\Dava\Desktop\ex\ex006_base\bin\Debug\net6.0\ex006_base.deps.json
+C:\Users\Dava\Desktop\ex\ex006_base\bin\Debug\net6.0\ex006_base.runtimeconfig.json
+C:\Users\Dava\Desktop\ex\ex006_base\bin\Debug\net6.0\ex006_base.dll
+C:\Users\Dava\Desktop\ex\ex006_base\bin\Debug\net6.0\ex006_base.pdb
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.csproj.AssemblyReference.cache
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.AssemblyInfoInputs.cache
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.AssemblyInfo.cs
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.csproj.CoreCompileInputs.cache
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.dll
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\refint\ex006_base.dll
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.pdb
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ex006_base.genruntimeconfig.cache
+C:\Users\Dava\Desktop\ex\ex006_base\obj\Debug\net6.0\ref\ex006_base.dll
