@@ -1,0 +1,15 @@
+C:\Users\Dava\Desktop\ex\ex003_Sum\bin\Debug\net6.0\ex003_Sum.exe
+C:\Users\Dava\Desktop\ex\ex003_Sum\bin\Debug\net6.0\ex003_Sum.deps.json
+C:\Users\Dava\Desktop\ex\ex003_Sum\bin\Debug\net6.0\ex003_Sum.runtimeconfig.json
+C:\Users\Dava\Desktop\ex\ex003_Sum\bin\Debug\net6.0\ex003_Sum.dll
+C:\Users\Dava\Desktop\ex\ex003_Sum\bin\Debug\net6.0\ex003_Sum.pdb
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.csproj.AssemblyReference.cache
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.AssemblyInfoInputs.cache
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.AssemblyInfo.cs
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.dll
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\refint\ex003_Sum.dll
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.pdb
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ex003_Sum.genruntimeconfig.cache
+C:\Users\Dava\Desktop\ex\ex003_Sum\obj\Debug\net6.0\ref\ex003_Sum.dll
